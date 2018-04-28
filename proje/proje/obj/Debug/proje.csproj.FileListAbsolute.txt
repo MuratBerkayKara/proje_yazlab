@@ -1,0 +1,20 @@
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\proje\proje\bin\Debug\proje.exe.config
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\proje\proje\bin\Debug\proje.exe
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\proje\proje\bin\Debug\proje.pdb
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.Form1.resources
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.Properties.Resources.resources
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.exe
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.pdb
+C:\Users\Ugur_Cihat\Documents\Visual Studio 2015\Projects\proje\proje\obj\Debug\proje.Form2.resources
+C:\Users\ARBE\Desktop\proje\proje\proje\bin\Debug\proje.exe.config
+C:\Users\ARBE\Desktop\proje\proje\proje\bin\Debug\proje.exe
+C:\Users\ARBE\Desktop\proje\proje\proje\bin\Debug\proje.pdb
+C:\Users\ARBE\Desktop\proje\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\ARBE\Desktop\proje\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\ARBE\Desktop\proje\proje\proje\obj\Debug\proje.Form2.resources
+C:\Users\ARBE\Desktop\proje\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\ARBE\Desktop\proje\proje\proje\obj\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\ARBE\Desktop\proje\proje\proje\obj\Debug\proje.exe
+C:\Users\ARBE\Desktop\proje\proje\proje\obj\Debug\proje.pdb
